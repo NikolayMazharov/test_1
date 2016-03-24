@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="communal_service">Комунальне господарство</string>
+    <string name="working">В роботі</string>
+    <string name="sep" translatable="false">______________________________________________________</string>
+    <string name="text" translatable="false">Открытый люк (возле рекламного щита), район поворота 18 и 19 трамваев на проспект Мира с Донецкого шоссе</string>
+    <string name="org">Дніпропетровський МВК</string>
+    <string name="title_org">Відповідальний</string>
+    <string name="title_reg">Зареєстровано</string>
+    <string name="data_reg">26 лютого 2016</string>
+    <string name="title_dec">Вирішити до</string>
+    <string name="data_dec">29 лютого 2016</string>
+    <string name="title_made">Створено</string>
+    <string name="data_made">25 лютого 2016</string>
+    <string name="text_ukr">Відчинений люк (біля рекламного щита), район повороту 18 та 19 трамваїв на проспекті Мира з Донецького шосе</string>
+</resources>

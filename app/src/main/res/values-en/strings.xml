@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test1</string>
+    <string name="communal_service">Municipal service</string>
+    <string name="data_dec">29 Feb. 2016</string>
+    <string name="data_made">25 Feb. 2016</string>
+    <string name="data_reg">26 Feb. 2016</string>
+    <string name="org">Dnipropetrovsk CEC</string>
+    <string name="text_ukr">Open the hatch (near the billboard), District of turn 18 and 19 trams at Mira avenue from Donetsk highway</string>
+    <string name="title_dec">Decide to</string>
+    <string name="title_made">Created</string>
+    <string name="title_org">Responsible</string>
+    <string name="title_reg">Registered</string>
+    <string name="working">In process</string>
+</resources>
